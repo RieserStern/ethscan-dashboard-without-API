@@ -1,0 +1,206 @@
+{
+    
+    "NAV_WHAT_IS_GENECOIN": "¿Qué es PointGenieCoin",
+    "NAV_TOKEN_SALE": "Comprar token",
+    "NAV_ROADMAP": "Mapa de ruta",
+    "NAV_TEAM": "Equipo",
+    "NAV_FAQ": "Preguntas frecuentes",
+    "NAV_DAPP": "dApp",
+    "NAV_CONTACT": "Contacto",
+    "NAV_WHITEPAPER": "WhitePaper",
+    "NAV_TRY_APP": "Probar Móvil App",
+    
+    "FIRST_WELCOME_TO_GENIEVERSE": "Gana Dinero con tu Instagram",
+    "FIRST_DETAIL_1": "Red Social de Geolocalización, redes sociales, NFT y Blockchain en un ecosistema.",
+    "FIRST_DETAIL_2": "¡Recibe recompensa por tu contenido de Instagram en criptomonedas!",
+    
+    "BTN_SIGNUP_TO_JOIN": "Regístrate ahora",
+    "BTN_TOKEN_DISTRIBUTION": "Distribución de tokens",
+    
+    "REWARD_TITLE": "Obtén recompensas por tu actividad en las redes sociales",
+    "REWARD_DETAIL": "Las plataformas tradicionales de redes sociales gana miles de millones con tu contenido: hemos creado un ecosistema para que los creadores de contenido, los anunciantes y el público en general creen riqueza, respaldado por nuestro token de utilidad PointPointGenieCoin en Polygon Blockchain y GeniePoints en nuestras aplicaciones móviles.",
+    
+    "GENIEVERSE_TITLE": "¿Qué es el GenieVerso?",
+    "GENIEVERSE_DETAIL_1": "Somos una aplicación de ubicación y red social funcional y completamente operable del mundo real que coexiste con un universo paralelo que se ejecuta en la red de Polygon.",
+    "GENIEVERSE_DETAIL_2": "NFT's - GenieVerse permite a cualquier persona poseer ubicaciones del mundo real en nuestro GenieVerse y obtener recompensas por la interacción de los usuarios del mundo real a través de la aplicación PointGenie.",
+    "GENIEVERSE_DETAIL_3": "Los usuarios de la aplicación PointGenie generan GeniePoints interactuando con ubicaciones del mundo real y realizando todas sus actividades normales en las redes sociales. Posteriormente, los GeniePoints son intercambiables por PointPointGenieCoin y estas se convierten en dinero real. Todo unificado con un ecosistema de cadena de bloques, que hará que las transacciones sean verdaderamente seguras, transparentes y confiables.",
+  
+    "MEET_POINT_GENIE_APP_TITLE": "Conoce la aplicación PointGenie",
+    "MEET_POINT_GENIE_APP_DETAIL_1": "¿Eres nuevo en la ciudad o simplemente estás buscando tu próxima experiencia increíble? ¿Buscas recomendaciones de los mejores lugares a tu alrededor?",
+    "MEET_POINT_GENIE_APP_DETAIL_2": "“PointGenie” es una revolucionaria aplicación de búsqueda de lugares que te ayuda a descubrir y navegar por diferentes lugares alrededor de ti. Puedes encontrar lugares según tus preferencias. Es como tener un genio en la palma de tu mano que cumple tus deseos cuando te gustaría pasar un buen rato sin perder tiempo buscando lugares.",
+    "MEET_POINT_GENIE_APP_DETAIL_3": "Todos los lugares en la aplicación están curados por humanos y puedes encontrar tres colores (emojis) agregado a cada lugar en la aplicación. Hay diferentes colores disponibles para diferentes atmósferas de los lugares para sugerirte qué tan probable es que tengas una buena experiencia en el lugar.",
+    "MEET_POINT_GENIE_APP_DETAIL_4": "Tres colores indican la percepcion de la atmósfera del usuario que visitó el lugar más recientemente.",
+    "MEET_POINT_GENIE_APP_LIST_ITEM_1": "Vibraciones ambientales del lugar",
+    "MEET_POINT_GENIE_APP_LIST_ITEM_2": "Identifica el tamaño de la multitud",
+    "MEET_POINT_GENIE_APP_LIST_ITEM_3": "Te avisamos de los tiempos de espera",
+    "MEET_POINT_GENIE_APP_LIST_ITEM_4": "Conoce y conéctate con personas",
+    "MEET_POINT_GENIE_APP_LIST_ITEM_5": "Gana dinero por todo lo que das de GRATIS",
+    "BTN_GET_THE_APP_NOW": "Obtén la aplicación ahora",
+    
+    "TOKEN_SALE_TITLE": "Venta de token",
+    "TOKEN_SALE_DETAIL": "PointGenieCoin es el combustible que impulsa nuestra red, cada PointGenieCoin se mina en la aplicación del mundo real en PointGenie y sus usuarios. Stake, compra créditos publicitarios, NFTs y más.",
+    "TOKEN_SALE_SUBTITLE_1": "Inicio",
+    "TOKEN_SALE_SUBDETAIL_1": "30 de Junio 2022 (9:00 a. m. GMT)",
+    "TOKEN_SALE_SUBTITLE_2": "Número de tokens a la venta",
+    "TOKEN_SALE_SUBDETAIL_2": "600 Millones PGNE (8.5%)",
+    "TOKEN_SALE_SUBTITLE_3": "Fin",
+    "TOKEN_SALE_SUBDETAIL_3": "30 de Septiembre 2022 (11:00 a. m. GMT)",
+    "TOKEN_SALE_SUBTITLE_4": "Tipo de cambio de tokens",
+    "TOKEN_SALE_SUBDETAIL_4": "0.15 ETH = 50k PGNE, 0.010 BTC = 50k PGNE",
+    "TOKEN_SALE_SUBTITLE_5": "Divisas aceptables",
+    "TOKEN_SALE_SUBDETAIL_5": "MATIC,ETH, BNC, BTC, USDT, USD, EUR",
+    "TOKEN_SALE_SUBTITLE_6": "Cantidad mínima de transacción",
+    "TOKEN_SALE_SUBDETAIL_6": "0.00025 ETH/ 0.000021 BTC/ 0.0018 BNB/ 1000 USD",
+    "BTN_JOIN_BY_TOKEN": "Unirse y comprar token",
+    "TOKEN_SALE_SUBTITLE_7": "Distribución de tokens",
+    "TOKEN_SALE_SUBTITLE_8": "Usar de los ingresos",
+  
+    "ROADMAP_TITLE": "Nuestro mapa de ruta",
+    "ROADMAP_DATE_1": "Enero 2016",
+    "ROADMAP_DETAIL_1": "PointGenie LLC se fundó en Nueva Jersey y se inició la planificación",
+    "ROADMAP_DATE_2": "Julio de 2020",
+    "ROADMAP_DETAIL_2": "Se lanza plataforma de negocios, aplicación iOS y varios productos",
+    "ROADMAP_DATE_3": "Septiembre de 2021",
+    "ROADMAP_DETAIL_3": "Lanzamiento de aplicación iOS",
+    "ROADMAP_DATE_4": "Diciembre del 2021",
+    "ROADMAP_DETAIL_4": "Preparación de ICO y rueda de prensa y creación de contratos inteligentes",
+    "ROADMAP_DATE_5": "Junio 2022",
+    "ROADMAP_DETAIL_5": "Ronda (1) Comienzo de venta de tokens",
+    "ROADMAP_DATE_6": "Julio 2022",
+    "ROADMAP_DETAIL_6": "Ronda (2) Comienzo de venta de tokens",
+    "ROADMAP_DATE_7": "Agosto 2022",
+    "ROADMAP_DETAIL_7": "Ronda (3) Comienzo de Venta de Tokens",
+    "ROADMAP_DATE_8": "Septiembre 2022",
+    "ROADMAP_DETAIL_8": "Ronda (4) Comienzo de Venta de Tokens",
+    "ROADMAP_DATE_9": "Octubre 2022",
+    "ROADMAP_DETAIL_9": "ICO concluye y se anuncia fecha para Airdorp",
+    "ROADMAP_DATE_10": "Octubre 2022",
+    "ROADMAP_DETAIL_10": "Listado de PointGenieCoin en DEFI y conversaciones con las principales casa de intercambios",
+  
+  
+    "TEAM_TITLE": "Impulsado por un equipo",
+    "TEAM_DESCRIPTION": "Con más de 70 años de experiencia combinada, más de 50 proyectos desarrollados y millones en activos administrados, sabemos lo que estamos haciendo",
+    "TEAM_CO_FOUNDER": "CEO y cofundador",
+    "TEAM_CTO": "CEO y CIO y cofundador",
+    "TEAM_CFO": "CFO",
+    "TEAM_ADVISOR": "ASESOR",
+    "TEAM_LEAD_MOBILE_DEVELOPER": "Desarrollador móvil principal",
+    "TEAM_FINANCE_MARKETING": "Finanzas y marketing",
+    "TEAM_BLOCKCHAIN_ADVIOR": "Asesor de cadena de bloques",
+  
+    "FAQ_TITLE": "Preguntas frecuentes",
+    "FAQ_DETAIL": "Encuentre respuestas a las preguntas más comunes, no dude en contactarnos con el siguiente formulario si no encontró la respuesta a su pregunta.",
+    
+    "FAQ_GENERAL": "Generalidades",
+    "FAQ_GENERAL_ASK_1": "¿Qué es GenieVerse?",
+    "FAQ_GENERAL_ANSWER_1": "PointGenie es una plataforma que conecta usuarios basados en la ubicación, redes sociales, NFTs y blockchain en un solo ecosistema. En las plataformas de redes sociales tradicionales, los inversionistas y los propietarios ganan millones de dólares con el contenido generado por los usuarios y tú, el creador, no recibes NADA.",
+    "FAQ_GENERAL_ASK_2": "¿Cuál es el problema que estamos resolviendo?",
+    "FAQ_GENERAL_ANSWER_2": "Las plataformas de redes sociales tradicionales ganan miles de millones con contenido generado por el usuario y los creadores NADA. También si quieres salir de paseo y no estás seguro de qué explorar este fin de semana te ayudamos. ¿Buscas atracciones a tu alrededor? ¿Quieres comprobar si vale la pena visitar ese restaurante?",
+    "FAQ_GENERAL_ASK_3": "¿Qué es la aplicación PointGenie?",
+    "FAQ_GENERAL_ANSWER_3": "Es una aplicación de búsqueda de lugares con características sorprendentes e interesantes. Te brinda todo tipo de detalles sobre centros comerciales cercanos, salones, lugares públicos, restaurantes y cosas que hacer mientras estás allí.",
+    "FAQ_GENERAL_ASK_4": "¿Cómo gano dinero?",
+    "FAQ_GENERAL_ANSWER_4": "La red PointGenie recompensa a sus usuarios por divertirse y realizar sus actividades normales en las redes sociales, como reportar(check-in) en lugares, publicar fotos, recomendar a amigos y ver contenido patrocinado.",
+    
+  
+    "FAQ_ICO": "Pre-IDO e IDO",
+    "FAQ_ICO_ASK_1": "¿Cómo puedo participar de este gran evento?",
+    "FAQ_ICO_ANSWER_1": "Hay varias formas de participar Primero: descarga la aplicación Pointgenie, regístrate gratis, conecta tu Instagram, haz un check-in, comienza a recomendarla a tus amigos y gane alrededor de ($30 USD) Segundo: para aumentar tus ganancias potenciales, participe en uno de los eventos de venta de nuestro token y tendrás acceso para ganar hasta un 200 % de bonificación y otras ventajas especiales.",
+    
+    "FAQ_ICO_ASK_2": "¿Cuánto durará la venta Pre-IDO e IDO?",
+    "FAQ_ICO_ANSWER_2": "Una vez que se lance la preventa, el evento durará 30 días. Después de la IDO, durará 4 meses, 4 rondas de 1 mes cada una.",
+    "FAQ_ICO_ASK_3": "¿Cómo puedo comprar el Token/Monedas?",
+    "FAQ_ICO_ANSWER_3": "Toda la información oficial relacionada con el evento de venta se anuncia aquí, puedes comprar con MATIC, Bitcoin, Ethereum, BNB, dólares, Euros y USDT",
+    "FAQ_ICO_ASK_4": "¿Cuándo comenzará el airdrop y el comercio?",
+    "FAQ_ICO_ANSWER_4": "Una vez que la IDO y los eventos de crowdfunding concluyan, los lanzamientos aéreos(airdrops) comenzarán 30 días después. Las fechas de agregar la liquidez se anunciarán muy pronto, pero tenga en cuenta que las monedas se bloquearán y la disponibilidad comenzará gradualmente para proteger la sostenibilidad del proyecto.",
+    
+  
+    "FAQ_TOKEN": "Moneda(token)",
+    "FAQ_TOKEN_ASK_1": "¿Cuál es la cadena de bloques que usa este token?",
+    "FAQ_TOKEN_ANSWER_1": "Somos un token de utilidad ERC20 que se ejecuta a través de la red de Polygon, hay 7 mil millones de tokens pre-minados disponibles y el suministro total está controlado por un algoritmo y el suministro total está configurado para alcanzar el máximo en 25 años.",
+    "FAQ_TOKEN_ASK_2": "¿Cómo se generan los tokens?",
+    "FAQ_TOKEN_ANSWER_2": "Los usuarios son los que generan el token con su actividad diaria en la aplicación PointGenie, hay un límite diario de suministro de tokens que se pueden acuñar en la aplicación. Una vez que se alcancen estos límites, se reiniciará el día siguiente, la disponibilidad del token dependerá del factor multiplicador que determine la dinámica del juego.",
+    "FAQ_TOKEN_ASK_3": "¿Por qué hay GeniePoints y PointGenieCoins?",
+    "FAQ_TOKEN_ANSWER_3": "Los GeniePoints se producen inherentemente en la aplicación PointGenie. Una vez que los GeniePoints alcanzan una cierta cantidad y cumplen con algunos criterios según el tipo de cuenta y el factor de tiempo, se pueden cambiar por PointGenieCoins en el portal y se pueden retirar a la billetera del usuario para cambiar por dinero.",
+    "FAQ_TOKEN_ASK_4": "¿Existen límites o restricciones?",
+    "FAQ_TOKEN_ANSWER_4": " Como cada caso es diferente, existen algunas medidas para prevenir el abuso y proteger la viabilidad del proyecto y proteger los activos de los usuarios, ciertas acciones tendrán límites y las reglas pueden estar sujetas a cambios en cualquier momento sin previo aviso. ",
+  
+  
+    "FAQ_NFT": "NFT",
+    "FAQ_NFT_ASK_1": "¿Cómo se integran los NFT en la Plataforma?",
+    "FAQ_NFT_ANSWER_1": "Como mencionamos antes, cada ubicación de longitud/latitud del planeta es única, GenieVerse permite a los usuarios comprar estas ubicaciones dentro de nuestro ecosistema GenieVerse, lo que significa que el propietario de estas ubicaciones NO tiene ninguna copropiedad con el propietario de propiedad en el mundo real.",
+    "FAQ_NFT_ASK_2": "¿Las propiedades en GenieVerse se comparten con el propietario del mundo real?",
+    "FAQ_NFT_ANSWER_2": "Las propiedades en GenieVerse pertenecen a GenieVerse y es una dimensión paralela del mundo real, piense en un tablero de Monopolio donde todo lo que sucede en un tablero sucede allí. La plataforma GenieVerse no está afiliada a ningún metaverso nosotros estamos desarrollando nuestra propia tecnología.",
+    "FAQ_NFT_ASK_3": "¿Cómo obtienen los NFTs su valor?",
+    "FAQ_NFT_ANSWER_3": " Como se mencionó anteriormente, las propiedades en GenieVerse están impulsadas por las actividades de la interacción del mundo real a través de la aplicación Pointgenie, cada vez que un usuario visita un lugar genera GeniePoints y un porcentaje de esto se comparte con el propietario del NFTs como la mecánica en el juego Monopolio.",
+    "FAQ_NFT_ASK_4": "¿Dónde puedo comprar y vender los NFTs?",
+    "FAQ_NFT_ANSWER_4": "Estamos desarrollando nuestro propio ecosistema de mercado, en PointGenie se creará y venderán las propiedades, los creadores también podrán compartir sus obras de arte con la comunidad, cada NFTs será rastreado en la cadena de bloques de Polygon y el historial del activos será público, cualquiera podra ver las ganancias y el valor ganado con el tiempo de una propiedad(NFTs).",
+  
+    "FAQ_LEGAL": "Legal",
+    "FAQ_LEGAL_ASK_1": "¿De dónde es esta empresa?",
+    "FAQ_LEGAL_ANSWER_1": "PointGenie LLC fue fundada en el estado de Nueva Jersey en 2016, la sede está ubicada en Miami Florida y se abrirán otras oficinas en India y Estonia.",
+    "FAQ_LEGAL_ASK_2": "¿PointGenieCoin es una empresa diferente a PointGenie?",
+    "FAQ_LEGAL_ANSWER_2": " PointGenieCoin está configurado para operar en Estonia bajo su jurisdicción legal, PointGenieCoin es una entidad separada administrada por PointGenie LLC debido a restricciones y regulaciones vigentes en los Estados Unidos.",
+    "FAQ_LEGAL_ASK_3": "¿Será segura cualquier inversión que haga en la plataforma?",
+    "FAQ_LEGAL_ANSWER_3": "Somos una empresa fundada en Estados Unidos y los fundadores son personas conocidas, pero con cualquier inversión hay riesgos, el futuro y las regulaciones no se puede controlar, pero estamos tomando medidas en tecnología, finanzas y planificación para mitigar cualquier riesgo que puede emerger de repente.",
+    "FAQ_LEGAL_ASK_4": "¿Cuándo podré retirar mi token y vender?",
+    "FAQ_LEGAL_ANSWER_4": "Una vez que finalice la venta del token, la empresa anunciará la fecha de inicio del airdrop, habrá períodos de bloqueo y el acceso a la retirada se basará en los planes seleccionados durante la IDO y la campaña de crowdfunding. Se iran compartiendo más detalles poco a poco.",
+  
+    "CONTACT_TITLE": "Contactar con PointGenieCoin o Pointgenie",
+    "CONTACT_DETAIL": "¿Alguna pregunta? Comuníquese con nosotros y le responderemos a la brevedad.",
+    "CONTACT_TG": "Únete a nosotros en Telegram",
+    "CONTACT_NAME": "Tu nombre",
+    "CONTACT_EMAIL": "Tu correo electrónico",
+    "CONTACT_MESSAGE": "Tu Mensaje",
+    "BTN_SUBMIt": "Enviar",
+  
+    "FOOTER_TITLE": "No te lo pierdas, mantente actualizado",
+    "FOOTER_EMAIL_PLACEHOLDER": "Ingrese su correo electrónico",
+    "BTN_SUBSCRIBE": "Suscribirse",
+    
+    "FOOTER_COPYRIGHT_TEXT_1": "Copyright &copy; 2021, Pointgenie LLC Y PointGenie. Todos los derechos reservados",
+    "FOOTER_COPYRIGHT_TEXT_2": "PointGenieVerse",
+    "FOOTER_COPYRIGHT_TEXT_3": "Creada orgullosamente en la Florida por latinos",
+    "FOOTER_COPYRIGHT_TEXT_4": "Todas las marcas comerciales y derechos de autor pertenecen a sus respectivos propietarios.",
+    
+  
+    "DAPP_TITLE": "DApp de reclamo y staking de PointGenie",
+    "DAPP_SUBTITLE": "Convierte tus GeniePoint en PointgenieCoin.",
+    "DAPP_PERCENT_DISCRIPTION": "Participar y obtener 0% (APY) - 0% de ganancias diarias",
+  
+    "DAPP_METAMASK_CONNECT_1": "Conectando a Metamask",
+    "DAPP_METAMASK_CONNECT_2": "No se detecta Metamask",
+    "DAPP_METAMASK_CONNECT_3": "Metamask detectado",
+  
+    "DAPP_CLAIMING": "Reclamando",
+    "DAPP_CLAIMING_TEXT_1": "Total de GeniePoints ganados",
+    "DAPP_CLAIMING_TEXT_2": "Monedas PointGenie otorgadas",
+    
+    "DAPP_STAKE": "Stake",
+    "DAPP_STAKE_TEXT_1": "Disponible para staking",
+    "DAPP_STAKE_TEXT_2": "Cantidad de staking (PGNE)",
+    "DAPP_STAKE_TEXT_3": "Monedas estimadas con ganancias",
+    "DAPP_STAKE_TEXT_4": "Tiempo de bloqueo",
+  
+    "DAPP_Unstake": "Unstaking",
+    "DAPP_Unstake_TEXT_1": "Cantidad disponible",
+    "DAPP_Unstake_TEXT_2": "Cantidad a retirar",
+    "DAPP_Unstake_TEXT_3": "Penalización por retiro anticipado del 40 % de las ganancias",
+    "DAPP_Unstake_TEXT_4": "Monedas estimadas a recibir",
+  
+    "DAPP_PUBLIC_ADDRESS": "Su dirección de billetera pública",
+  
+    "DAPP_TOTAL_STAKED": "Total staked (por todos los usuarios)",
+    "DAPP_STAKING_CONTRACT_ADDRESS": "Dirección del contrato de staking de PointGenieCoin",
+    "DAPP_SMART_CONTRACT_ADDRESS": "Dirección de contrato inteligente de PointGenieCoin"
+    
+    
+    
+  
+    
+    
+    
+  
+  
+  
+  }
+ 
